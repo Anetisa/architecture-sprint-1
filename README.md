@@ -197,3 +197,5 @@ Module Federation объединяет разные модули приложе�
 
 В этом задании вам нужно декомпозировать схему веб-приложения на Django на микросервисы. 
 Решение содержится в файле _arch_template_task2_new.drawio_ (конвертированная в изображение схема _arch_template_task2_new.drawio.png_)
+
+[Посмотреть схему](./arch_template_task2_new.drawio.png)
